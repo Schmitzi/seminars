@@ -15,6 +15,6 @@ Below, you find a list of approved seminars to make it easier for you to find ap
 | [Umeå University MedChem Seminar Series](https://www.umu.se/en/department-of-medical-biochemistry-and-biophysics/research/seminar-series/) | Tuesdays at 15:15 on Zoom |
 
 ## Contributors
-Thanks to the following people for submitting links (in no particular order)_
+Thanks to the following people for submitting links (in no particular order):
 
 * Tiarne van de Walle

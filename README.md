@@ -4,7 +4,7 @@ This is a list of seminars that have been approved for supplementation of the Ru
 ## Background
 PhD students at the Department of Immunology, Genetics and Pathology are required to attend 30 Rudbeck or Svedberg seminars.
 Unfortunately, these have been cancelled because of the ongoing COVID-19 pandemic.
-Therefore, PhD students are required to attend other seminar series, which have to be approved by their supervisors.
+Therefore, PhD students must attend other seminar series, which have to be approved by their supervisors.
 Below, you find a list of approved seminars to make it easier for you to find appropriate seminars.
 
 ## List

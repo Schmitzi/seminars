@@ -20,3 +20,4 @@ Below, you find a list of approved seminars to make it easier for you to find ap
 Thanks to the following people for submitting links (in no particular order):
 
 * Tiarne van de Walle
+* Natallia Rameika
